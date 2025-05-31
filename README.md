@@ -18,6 +18,7 @@ const carlos = {
         frontend: ["HTML", "CSS", "JavaScript", "React"],
         backend: ["Node.js", "Python"],
         herramientas: ["Git", "GitHub", "VS Code"]
+        en_proceso: ["C++", "Ruby"]
     },
     mision: "Crear herramientas simples que resuelvan problemas reales y aporten a la comunidad"
 };
@@ -59,7 +60,7 @@ const carlos = {
 ### 📫 Conectemos
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImGaburel)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsgaburel@proton.me)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:itsgaburel@proton.me)
 
 ---
 
