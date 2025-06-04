@@ -30,9 +30,16 @@ const carlos = {
 
 ### [🔐 UtilsX - Generador de Contraseñas y QR](https://github.com/ImGaburel/UtilsX-Pass-QR-Gen)
 > Herramienta web para generar contraseñas seguras y códigos QR  
-> `HTML5` `CSS3` `JavaScript` `QRious.js`
+> `HTML` `CSS` `JavaScript` `QRious.js`
 
 **[🌐 Ver Página en Vivo](https://imgaburel.github.io/UtilsX-Pass-QR-Gen/src/)**
+
+---
+### [🧮 G-J Calculator - Calculadora de Matrices](https://github.com/ImGaburel/G-J-Calc)
+> Perfecta para resolver sistemas de ecuaciones usando Gauss-Jordan    
+> `HTML` `CSS` `JavaScript` `MathJax`
+
+**[🌐 Ver Página en Vivo](https://imgaburel.github.io/G-J-Calc/)**
 
 ---
 
