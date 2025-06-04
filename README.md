@@ -28,6 +28,10 @@ const carlos = {
 
 <div align="center">
 
+### [🌟 Klyra - Seguridad que brilla, como una estrella]
+> Klyra es un AntiVirus gratuito que se encuentra en desarrollo
+> `Próximamente`
+
 ### [🔐 UtilsX - Generador de Contraseñas y QR](https://github.com/ImGaburel/UtilsX-Pass-QR-Gen)
 > Herramienta web para generar contraseñas seguras y códigos QR  
 > `HTML` `CSS` `JavaScript` `QRious.js`
