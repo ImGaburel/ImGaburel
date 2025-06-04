@@ -28,7 +28,7 @@ const carlos = {
 
 <div align="center">
 
-### [🌟 Klyra - Seguridad que brilla, como una estrella]
+### [🌟 Klyra - Seguridad que brilla, como una estrella](https://github.com/ImGaburel/Klyra)
 > Klyra es un AntiVirus gratuito que se encuentra en desarrollo    
 > `Próximamente`
 
